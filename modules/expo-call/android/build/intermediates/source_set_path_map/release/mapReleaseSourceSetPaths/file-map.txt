@@ -1,0 +1,7 @@
+expo.modules.call.expo-call-pngs-0 /Users/andresdossantos/Dev/Projects/expo-modules/modules/expo-call/android/build/generated/res/pngs/release
+expo.modules.call.expo-call-resValues-1 /Users/andresdossantos/Dev/Projects/expo-modules/modules/expo-call/android/build/generated/res/resValues/release
+expo.modules.call.expo-call-mergeReleaseResources-2 /Users/andresdossantos/Dev/Projects/expo-modules/modules/expo-call/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+expo.modules.call.expo-call-mergeReleaseResources-3 /Users/andresdossantos/Dev/Projects/expo-modules/modules/expo-call/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+expo.modules.call.expo-call-release-4 /Users/andresdossantos/Dev/Projects/expo-modules/modules/expo-call/android/build/intermediates/merged_res/release/mergeReleaseResources
+expo.modules.call.expo-call-main-5 /Users/andresdossantos/Dev/Projects/expo-modules/modules/expo-call/android/src/main/res
+expo.modules.call.expo-call-release-6 /Users/andresdossantos/Dev/Projects/expo-modules/modules/expo-call/android/src/release/res
